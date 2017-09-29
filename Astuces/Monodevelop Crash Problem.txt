@@ -1,0 +1,2 @@
+The solution is Tools -> Add-In-Manager -> Disbale Git.
+
