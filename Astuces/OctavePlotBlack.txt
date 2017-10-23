@@ -1,0 +1,3 @@
+Add env LIBGL_ALWAYS_SOFTWARE=1  into the desktop file.
+Exec=env LIBGL_ALWAYS_SOFTWARE=1 /usr/bin/octave --force-gui %f
+
