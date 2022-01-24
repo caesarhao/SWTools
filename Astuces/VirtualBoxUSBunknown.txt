@@ -1,0 +1,3 @@
+# create group vboxusers and add current user inside.
+sudo usermod -G vboxusers -a $USER
+
